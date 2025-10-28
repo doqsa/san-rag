@@ -1,0 +1,30 @@
+{"edge_id": "e-000001", "edge_type": "위임", "from_id": "kr-osh-act:9:3:20251001", "to_id": null, "anchors": ["제1항에 따른 산업재해 예방 통합정보시스템의 구축ㆍ운영, 그 밖에 필요한 사항은 대통령령으로 정한다."], "match_confidence": 0.7}
+{"edge_id": "e-000002", "edge_type": "위임", "from_id": "kr-osh-act:17:2:20251001", "to_id": null, "anchors": ["방법, 그 밖에 필요한 사항은 대통령령으로 정한다."], "match_confidence": 0.7}
+{"edge_id": "e-000003", "edge_type": "위임", "from_id": "kr-osh-act:18:2:20251001", "to_id": null, "anchors": ["방법, 그 밖에 필요한 사항은 대통령령으로 정한다."], "match_confidence": 0.7}
+{"edge_id": "e-000004", "edge_type": "위임", "from_id": "kr-osh-act:19:2:20251001", "to_id": null, "anchors": ["업무ㆍ권한ㆍ선임방법, 그 밖에 필요한 사항은 대통령령으로 정한다."], "match_confidence": 0.7}
+{"edge_id": "e-000005", "edge_type": "위임", "from_id": "kr-osh-act:22:2:20251001", "to_id": null, "anchors": ["산업보건의의 자격ㆍ직무ㆍ권한ㆍ선임방법, 그 밖에 필요한 사항은 대통령령으로 정한다."], "match_confidence": 0.7}
+{"edge_id": "e-000006", "edge_type": "위임", "from_id": "kr-osh-act:23:3:20251001", "to_id": null, "anchors": ["명예산업안전감독관의 위촉 방법, 업무, 그 밖에 필요한 사항은 대통령령으로 정한다."], "match_confidence": 0.7}
+{"edge_id": "e-000007", "edge_type": "위임", "from_id": "kr-osh-act:24:7:20251001", "to_id": null, "anchors": ["영 및 의결되지 아니한 경우의 처리방법, 그 밖에 필요한 사항은 대통령령으로 정한다."], "match_confidence": 0.7}
+{"edge_id": "e-000008", "edge_type": "준용", "from_id": "kr-osh-act:28:20251001", "to_id": null, "anchors": ["범위에서 「근로기준법」 중 취업규칙에 관한 규정을 준용한다."], "match_confidence": 0.7}
+{"edge_id": "e-000009", "edge_type": "준용", "from_id": "kr-osh-act:33:4:20251001", "to_id": null, "anchors": ["안전보건교육기관에 대해서는 제21조제4항 및 제5항을 준용한다. 이 경우 “안전관리전문기관 또는 보건관리전"], "match_confidence": 0.7}
+{"edge_id": "e-000010", "edge_type": "준용", "from_id": "kr-osh-act:48:4:20251001", "to_id": null, "anchors": ["안전보건진단기관에 관하여는 제21조제4항 및 제5항을 준용한다. 이 경우 “안전관리전문기관 또는 보건관리전"], "match_confidence": 0.7}
+{"edge_id": "e-000011", "edge_type": "준용", "from_id": "kr-osh-act:59:2:20251001", "to_id": null, "anchors": ["제1항에 따른 승인에 관하여는 제58조제4항부터 제8항까지의 규정을 준용한다."], "match_confidence": 0.7}
+{"edge_id": "e-000012", "edge_type": "위임", "from_id": "kr-osh-act:62:3:20251001", "to_id": null, "anchors": ["임자의 직무ㆍ권한, 그 밖에 필요한 사항은 대통령령으로 정한다."], "match_confidence": 0.7}
+{"edge_id": "e-000013", "edge_type": "위임", "from_id": "kr-osh-act:68:2:20251001", "to_id": null, "anchors": ["필요한 사항은 대통령령으로 정한다."], "match_confidence": 0.7}
+{"edge_id": "e-000014", "edge_type": "위임", "from_id": "kr-osh-act:74:2:20251001", "to_id": null, "anchors": ["제1항에 따른 건설재해예방전문지도기관의 지정 절차, 그 밖에 필요한 사항은 대통령령으로 정한다."], "match_confidence": 0.7}
+{"edge_id": "e-000015", "edge_type": "준용", "from_id": "kr-osh-act:74:4:20251001", "to_id": null, "anchors": ["건설재해예방전문지도기관에 관하여는 제21조제4항 및 제5항을 준용한다. 이 경우 “안전관리전문기관 또는 보"], "match_confidence": 0.7}
+{"edge_id": "e-000016", "edge_type": "위임", "from_id": "kr-osh-act:75:3:20251001", "to_id": null, "anchors": ["의 심의ㆍ의결을 거쳐야 한다. 이 경우 노사협의체에서 의결되지 아니한 사항의 처리방법은 대통령령으로 정한다."], "match_confidence": 0.7}
+{"edge_id": "e-000017", "edge_type": "준용", "from_id": "kr-osh-act:75:7:20251001", "to_id": null, "anchors": ["노사협의체에 관하여는 제24조제5항 및 제6항을 준용한다. 이 경우 “산업안전보건위원회”는 “노사협의체”로 본"], "match_confidence": 0.7}
+{"edge_id": "e-000018", "edge_type": "준용", "from_id": "kr-osh-act:82:4:20251001", "to_id": null, "anchors": ["제1항에 따라 등록한 자에 대해서는 제21조제4항 및 제5항을 준용한다. 이 경우 “안전관리전문기관 또는 보건관"], "match_confidence": 0.7}
+{"edge_id": "e-000019", "edge_type": "준용", "from_id": "kr-osh-act:88:5:20251001", "to_id": null, "anchors": ["안전인증기관에 관하여는 제21조제4항 및 제5항을 준용한다. 이 경우 “안전관리전문기관 또는 보건관리전문기"], "match_confidence": 0.7}
+{"edge_id": "e-000020", "edge_type": "준용", "from_id": "kr-osh-act:96:5:20251001", "to_id": null, "anchors": ["안전검사기관에 관하여는 제21조제4항 및 제5항을 준용한다. 이 경우 “안전관리전문기관 또는 보건관리전문기"], "match_confidence": 0.7}
+{"edge_id": "e-000021", "edge_type": "준용", "from_id": "kr-osh-act:100:4:20251001", "to_id": null, "anchors": ["자율안전검사기관에 관하여는 제21조제4항 및 제5항을 준용한다. 이 경우 “안전관리전문기관 또는 보건관리전"], "match_confidence": 0.7}
+{"edge_id": "e-000022", "edge_type": "준용", "from_id": "kr-osh-act:120:5:20251001", "to_id": null, "anchors": ["석면조사기관에 관하여는 제21조제4항 및 제5항을 준용한다. 이 경우 “안전관리전문기관 또는 보건관리전문기"], "match_confidence": 0.7}
+{"edge_id": "e-000023", "edge_type": "준용", "from_id": "kr-osh-act:121:4:20251001", "to_id": null, "anchors": ["석면해체ㆍ제거업자에 관하여는 제21조제4항 및 제5항을 준용한다. 이 경우 “안전관리전문기관 또는 보건관리"], "match_confidence": 0.7}
+{"edge_id": "e-000024", "edge_type": "준용", "from_id": "kr-osh-act:126:5:20251001", "to_id": null, "anchors": ["작업환경측정기관에 관하여는 제21조제4항 및 제5항을 준용한다. 이 경우 “안전관리전문기관 또는 보건관리전"], "match_confidence": 0.7}
+{"edge_id": "e-000025", "edge_type": "준용", "from_id": "kr-osh-act:135:6:20251001", "to_id": null, "anchors": ["특수건강진단기관에 관하여는 제21조제4항 및 제5항을 준용한다. 이 경우 “안전관리전문기관 또는 보건관리전"], "match_confidence": 0.7}
+{"edge_id": "e-000026", "edge_type": "준용", "from_id": "kr-osh-act:140:4:20251001", "to_id": null, "anchors": ["제2항에 따른 교육기관에 관하여는 제21조제4항 및 제5항을 준용한다. 이 경우 “안전관리전문기관 또는 보건관"], "match_confidence": 0.7}
+{"edge_id": "e-000027", "edge_type": "위임", "from_id": "kr-osh-act:142:3:20251001", "to_id": null, "anchors": ["사항은 대통령령으로 정한다."], "match_confidence": 0.7}
+{"edge_id": "e-000028", "edge_type": "준용", "from_id": "kr-osh-act:156:3:20251001", "to_id": null, "anchors": ["공단 소속 직원이 제1항에 따라 사업장에 출입하는 경우에는 제155조제4항을 준용한다. 이 경우 “근로감독관”은"], "match_confidence": 0.7}
+{"edge_id": "e-000029", "edge_type": "위임", "from_id": "kr-osh-act:160:4:20251001", "to_id": null, "anchors": ["은 대통령령으로 정한다."], "match_confidence": 0.7}
+{"edge_id": "e-000030", "edge_type": "준용", "from_id": "kr-osh-act:5:20251001", "to_id": null, "anchors": ["140조, 제155조부터 제157조까지를 준용한다. 이 경우 “사업주”는 “현장실습산업체의 장”으로, “근로”는 “현장실습"], "match_confidence": 0.7}

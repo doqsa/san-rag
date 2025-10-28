@@ -1,0 +1,5 @@
+{"edge_id": "e-000001", "edge_type": "준용", "from_id": "kr-osh-std:218:2:20250715", "to_id": null, "anchors": ["항타기에 체인블록 등의 장치를 부착하여 말뚝 또는 널말뚝 등을 끌어 올리는 경우에는 제1항을 준용한다."], "match_confidence": 0.7}
+{"edge_id": "e-000002", "edge_type": "준용", "from_id": "kr-osh-std:221:3:20250715", "to_id": null, "anchors": ["166조, 제167조 및 제169조에 따라 준용되는 경우를 포함한다)을 준용한다. 이 경우 “양중기” 또는 “크레인”은 “굴착"], "match_confidence": 0.7}
+{"edge_id": "e-000003", "edge_type": "준용", "from_id": "kr-osh-std:325:3:20250715", "to_id": null, "anchors": ["생산공정상 정전기에 의한 감전 위험이 발생할 우려가 있는 경우의 조치에 관하여는 제1항과 제2항을 준용한다."], "match_confidence": 0.7}
+{"edge_id": "e-000004", "edge_type": "준용", "from_id": "kr-osh-std:441:3:20250715", "to_id": null, "anchors": ["제1항에 따른 점검을 한 후 그 기록의 보존에 관하여는 제555조를 준용한다."], "match_confidence": 0.7}
+{"edge_id": "e-000005", "edge_type": "준용", "from_id": "kr-osh-std:456:3:20250715", "to_id": null, "anchors": ["제1항에 따른 점검을 한 후 그 기록의 보존에 관하여는 제555조를 준용한다."], "match_confidence": 0.7}

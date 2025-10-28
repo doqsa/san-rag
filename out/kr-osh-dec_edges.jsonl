@@ -1,0 +1,10 @@
+{"edge_id": "e-000001", "edge_type": "준용", "from_id": "kr-osh-dec:15:2:20250621", "to_id": null, "anchors": ["관리감독자에 대한 지원에 관하여는 제14조제2항을 준용한다. 이 경우 “안전보건관리책임자”는 “관리감독자”로,"], "match_confidence": 0.7}
+{"edge_id": "e-000002", "edge_type": "준용", "from_id": "kr-osh-dec:18:5:20250621", "to_id": null, "anchors": ["안전관리자에 대한 지원에 관하여는 제14조제2항을 준용한다. 이 경우 “안전보건관리책임자”는 “안전관리자”로,"], "match_confidence": 0.7}
+{"edge_id": "e-000003", "edge_type": "준용", "from_id": "kr-osh-dec:20:3:20250621", "to_id": null, "anchors": ["보건관리자의 선임 등에 관하여는 제16조제3항부터 제7항까지의 규정을 준용한다. 이 경우 “별표 3”은 “별표"], "match_confidence": 0.7}
+{"edge_id": "e-000004", "edge_type": "준용", "from_id": "kr-osh-dec:22:4:20250621", "to_id": null, "anchors": ["보건관리자의 배치 및 평가ㆍ지도에 관하여는 제18조제2항 및 제3항을 준용한다. 이 경우 “안전관리자”는 “보건"], "match_confidence": 0.7}
+{"edge_id": "e-000005", "edge_type": "준용", "from_id": "kr-osh-dec:23:3:20250621", "to_id": null, "anchors": ["보건관리자 업무의 위탁에 관하여는 제19조제2항을 준용한다. 이 경우 “법 제17조제5항 및 이 조 제1항”은 “법"], "match_confidence": 0.7}
+{"edge_id": "e-000006", "edge_type": "준용", "from_id": "kr-osh-dec:26:2:20250621", "to_id": null, "anchors": ["안전보건관리담당자 업무의 위탁에 관하여는 제19조제2항을 준용한다. 이 경우 “법 제17조제5항 및 이 조 제1항"], "match_confidence": 0.7}
+{"edge_id": "e-000007", "edge_type": "준용", "from_id": "kr-osh-dec:31:2:20250621", "to_id": null, "anchors": ["산업보건의에 대한 지원에 관하여는 제14조제2항을 준용한다. 이 경우 “안전보건관리책임자”는 “산업보건의”로,"], "match_confidence": 0.7}
+{"edge_id": "e-000008", "edge_type": "준용", "from_id": "kr-osh-dec:53:2:20250621", "to_id": null, "anchors": ["안전보건총괄책임자에 대한 지원에 관하여는 제14조제2항을 준용한다. 이 경우 “안전보건관리책임자”는 “안전"], "match_confidence": 0.7}
+{"edge_id": "e-000009", "edge_type": "준용", "from_id": "kr-osh-dec:65:2:20250621", "to_id": null, "anchors": ["과 등의 공지에 관하여는 각각 제36조, 제37조제2항부터 제4항까지, 제38조 및 제39조를 준용한다. 이 경우 “산업안"], "match_confidence": 0.7}
+{"edge_id": "e-000010", "edge_type": "준용", "from_id": "kr-osh-dec:114:20250621", "to_id": null, "anchors": ["부과와 납부에 관하여는 제112조를 준용한다."], "match_confidence": 0.7}

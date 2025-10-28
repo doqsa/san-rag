@@ -1,0 +1,33 @@
+{"edge_id": "e-000001", "edge_type": "준용", "from_id": "kr-osh-rul:16:5:20250701", "to_id": null, "anchors": ["재지를 관할하는 지방고용노동청장에게 제출해야 한다. 이 경우 변경신청서의 처리에 관하여는 제3항을 준용한다."], "match_confidence": 0.7}
+{"edge_id": "e-000002", "edge_type": "준용", "from_id": "kr-osh-rul:31:5:20250701", "to_id": null, "anchors": ["한다. 이 경우 변경등록신청서의 처리에 관하여는 제3항을 준용한다."], "match_confidence": 0.7}
+{"edge_id": "e-000003", "edge_type": "준용", "from_id": "kr-osh-rul:32:2:20250701", "to_id": null, "anchors": ["의 규정을 준용한다. 이 경우 “안전관리전문기관 또는 보건관리전문기관”은 “안전보건교육기관”으로 본다."], "match_confidence": 0.7}
+{"edge_id": "e-000004", "edge_type": "준용", "from_id": "kr-osh-rul:33:6:20250701", "to_id": null, "anchors": ["제5항에 따른 등록 변경에 관하여는 제3항 및 제4항을 준용한다. 다만, 고용노동부장관이 정하는 경미한 사항의"], "match_confidence": 0.7}
+{"edge_id": "e-000005", "edge_type": "준용", "from_id": "kr-osh-rul:58:2:20250701", "to_id": null, "anchors": ["까지의 규정을 준용한다. 이 경우 “안전관리전문기관 또는 보건관리전문기관”은 “안전보건진단기관”으로 본다."], "match_confidence": 0.7}
+{"edge_id": "e-000006", "edge_type": "준용", "from_id": "kr-osh-rul:59:3:20250701", "to_id": null, "anchors": ["제6항까지의 규정을 준용한다. 이 경우 “안전관리전문기관 또는 보건관리전문기관”은 “안전보건진단기관”으로, “고"], "match_confidence": 0.7}
+{"edge_id": "e-000007", "edge_type": "준용", "from_id": "kr-osh-rul:65:2:20250701", "to_id": null, "anchors": ["작업중지명령 고지 등에 관하여는 제64조제2항부터제5항까지를 준용한다. 이 경우 “사용중지명령서등”은 “작업"], "match_confidence": 0.7}
+{"edge_id": "e-000008", "edge_type": "준용", "from_id": "kr-osh-rul:444:4:20250701", "to_id": null, "anchors": ["에 관하여는 제75조제3항, 같은 조 제4항, 제76조 및 제77조의 규정을 준용한다. 이 경우 “법 제58조제2항제2호에"], "match_confidence": 0.7}
+{"edge_id": "e-000009", "edge_type": "준용", "from_id": "kr-osh-rul:90:4:20250701", "to_id": null, "anchors": ["납 등에 관하여는 제16조제4항부터 제6항까지의 규정을 준용한다. 이 경우 “안전관리전문기관 또는 보건관리전문"], "match_confidence": 0.7}
+{"edge_id": "e-000010", "edge_type": "준용", "from_id": "kr-osh-rul:91:2:20250701", "to_id": null, "anchors": ["제8항까지의 규정을 준용한다. 이 경우 “안전관리전문기관 또는 보건관리전문기관”은 “건설재해예방전문지도기관"], "match_confidence": 0.7}
+{"edge_id": "e-000011", "edge_type": "준용", "from_id": "kr-osh-rul:92:20250701", "to_id": null, "anchors": ["준용한다. 이 경우 “안전관리전문기관 또는 보건관리전문기관”은 “건설재해예방전문지도기관”으로 본다."], "match_confidence": 0.7}
+{"edge_id": "e-000012", "edge_type": "준용", "from_id": "kr-osh-rul:95:5:20250701", "to_id": null, "anchors": ["특수형태근로종사자의 교육면제에 대해서는 제27조제4항을 준용한다. 이 경우 “사업주”는 “특수형태근로종사자"], "match_confidence": 0.7}
+{"edge_id": "e-000013", "edge_type": "준용", "from_id": "kr-osh-rul:106:4:20250701", "to_id": null, "anchors": ["하여는 제16조제4항부터 제6항까지의 규정을 준용한다. 이 경우 “지정서”는 “등록증”으로, “안전관리전문기관 또는"], "match_confidence": 0.7}
+{"edge_id": "e-000014", "edge_type": "준용", "from_id": "kr-osh-rul:111:2:20250701", "to_id": null, "anchors": ["를 준용한다)"], "match_confidence": 0.7}
+{"edge_id": "e-000015", "edge_type": "준용", "from_id": "kr-osh-rul:117:2:20250701", "to_id": null, "anchors": ["안전인증기관의 지정 신청에 관하여는 제16조제3항부터 제6항까지의 규정을 준용한다. 이 경우 “고용노동부장"], "match_confidence": 0.7}
+{"edge_id": "e-000016", "edge_type": "준용", "from_id": "kr-osh-rul:118:2:20250701", "to_id": null, "anchors": ["의 규정을 준용한다. 이 경우 “안전관리전문기관 또는 보건관리전문기관”은 “안전인증기관”으로 본다."], "match_confidence": 0.7}
+{"edge_id": "e-000017", "edge_type": "준용", "from_id": "kr-osh-rul:128:2:20250701", "to_id": null, "anchors": ["안전검사기관의 지정 신청에 관하여는 제16조제3항부터 제6항까지의 규정을 준용한다. 이 경우 “고용노동부장"], "match_confidence": 0.7}
+{"edge_id": "e-000018", "edge_type": "준용", "from_id": "kr-osh-rul:129:2:20250701", "to_id": null, "anchors": ["의 규정을 준용한다. 이 경우 “안전관리전문기관 또는 보건관리전문기관”은 “안전검사기관”으로 본다."], "match_confidence": 0.7}
+{"edge_id": "e-000019", "edge_type": "준용", "from_id": "kr-osh-rul:133:3:20250701", "to_id": null, "anchors": ["는 제16조제3항부터 제6항까지의 규정을 준용한다. 이 경우 “고용노동부장관 또는 지방고용노동청장”은 “지방고용"], "match_confidence": 0.7}
+{"edge_id": "e-000020", "edge_type": "준용", "from_id": "kr-osh-rul:134:2:20250701", "to_id": null, "anchors": ["까지의 규정을 준용한다. 이 경우 “안전관리전문기관 또는 보건관리전문기관”은 “자율안전검사기관”으로 본다."], "match_confidence": 0.7}
+{"edge_id": "e-000021", "edge_type": "준용", "from_id": "kr-osh-rul:136:20250701", "to_id": null, "anchors": ["및 제120조의 규정을 준용한다."], "match_confidence": 0.7}
+{"edge_id": "e-000022", "edge_type": "준용", "from_id": "kr-osh-rul:138:4:20250701", "to_id": null, "anchors": ["을 준용한다."], "match_confidence": 0.7}
+{"edge_id": "e-000023", "edge_type": "준용", "from_id": "kr-osh-rul:145:2:20250701", "to_id": null, "anchors": ["허용기준 설정 대상 유해인자의 노출 농도 측정에 관하여는 제189조를 준용한다. 이 경우 “작업환경측정”은 “유"], "match_confidence": 0.7}
+{"edge_id": "e-000024", "edge_type": "준용", "from_id": "kr-osh-rul:149:3:20250701", "to_id": null, "anchors": ["제1항에 따른 확인의 신청에 관하여는 제148조제2항을 준용한다."], "match_confidence": 0.7}
+{"edge_id": "e-000025", "edge_type": "준용", "from_id": "kr-osh-rul:150:2:20250701", "to_id": null, "anchors": ["제1항에 따른 확인의 신청에 관하여는 제148조제2항을 준용한다."], "match_confidence": 0.7}
+{"edge_id": "e-000026", "edge_type": "준용", "from_id": "kr-osh-rul:173:5:20250701", "to_id": null, "anchors": ["허가대상물질의 제조ㆍ사용 허가증의 재발급, 허가증의 반납에 관하여는 제172조제3항 및 제4항을 준용한다. 이"], "match_confidence": 0.7}
+{"edge_id": "e-000027", "edge_type": "준용", "from_id": "kr-osh-rul:177:3:20250701", "to_id": null, "anchors": ["6항까지의 규정을 준용한다. 이 경우 “고용노동부장관 또는 지방고용노동청장”은 “지방고용노동청장”으로, “안전관"], "match_confidence": 0.7}
+{"edge_id": "e-000028", "edge_type": "준용", "from_id": "kr-osh-rul:178:2:20250701", "to_id": null, "anchors": ["규정을 준용한다. 이 경우 “안전관리전문기관 또는 보건관리전문기관”은 “석면조사기관”으로 본다."], "match_confidence": 0.7}
+{"edge_id": "e-000029", "edge_type": "준용", "from_id": "kr-osh-rul:191:2:20250701", "to_id": null, "anchors": ["의 규정을 준용한다. 이 경우 “안전관리전문기관 또는 보건관리전문기관”은 “작업환경측정기관”으로 본다."], "match_confidence": 0.7}
+{"edge_id": "e-000030", "edge_type": "준용", "from_id": "kr-osh-rul:193:3:20250701", "to_id": null, "anchors": ["제6항까지의 규정을 준용한다. 이 경우 “고용노동부장관 또는 지방고용노동청장”은 “지방고용노동관서의 장”으로,"], "match_confidence": 0.7}
+{"edge_id": "e-000031", "edge_type": "준용", "from_id": "kr-osh-rul:211:6:20250701", "to_id": null, "anchors": ["제6항까지의 규정을 준용한다. 이 경우 “고용노동부장관 또는 지방고용노동청장”은 “지방고용노동관서의 장”으로,"], "match_confidence": 0.7}
+{"edge_id": "e-000032", "edge_type": "준용", "from_id": "kr-osh-rul:212:2:20250701", "to_id": null, "anchors": ["까지의 규정을 준용한다. 이 경우 “안전관리전문기관 또는 보건관리전문기관”은 “특수건강진단기관”으로 본다."], "match_confidence": 0.7}
+{"edge_id": "e-000033", "edge_type": "준용", "from_id": "kr-osh-rul:239:20250701", "to_id": null, "anchors": ["행규칙」을 준용한다. 이 경우 납입고지서에는 이의신청방법 및 이의신청기간을 함께 기재해야 한다."], "match_confidence": 0.7}
