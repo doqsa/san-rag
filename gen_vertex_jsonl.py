@@ -360,3 +360,6 @@ if __name__ == "__main__":
     print(f"🗂 출력 폴더: {os.path.abspath(OUTDIR)}")
     run_all(JOBS, OUTDIR)
     print("\n✅ 완료")
+
+
+
